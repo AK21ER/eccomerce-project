@@ -14,7 +14,7 @@ import CartPage from "./pages/CartPage";
 import { useCartStore } from "./stores/useCartStore";
 import PurchaseSuccessPage from "./pages/PurchaseSuccessPage";
 import PurchaseCancelPage from "./pages/PurchaseCancelPage";
-import VerifyCodePage from "./pages/verifyCodePage";
+import VerifyCodePage from "./pages/VerifyCodePage";
 
 
 function App() {
