@@ -1,5 +1,5 @@
 import { mailTrapClient,sender } from "./mailtrap.config.js";
-import { purchase_verification } from "./emailtemplate.js";
+import { purchase_verification } from "./emailTemplate.js";
 
 export const emailSender = async (user,products,total) =>{
     // const recipients =[{email:user.email}] // to be edited when there is a wifi
